@@ -58,4 +58,4 @@ Brightness is modified using a 5-byte payload, although the exact encoding of th
 Although the brightness encoding could not be determined, it was ultimately unnecessary for the project, as HomeKit uses HSL (Hue, Saturation, Lightness) values. These were converted to RGB values for control purposes.
 
 ## Additional Notes
-This reverse-engineering effort identifies the core functionality needed to control the lights over BLE, though several features remain unexplored. Contributions are welcome. A demo code implementation is provided for controlling the lights over BLE using the documented payloads.
+This reverse-engineering effort identifies the core functionality needed to control the lights over BLE, though several features remain unexplored. Contributions are welcome. A demo code implementation for the ESP32 is provided for controlling the lights over BLE using the documented payloads.

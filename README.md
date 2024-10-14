@@ -1,4 +1,4 @@
-# DMBRAA-BLE-Communication Protocol
+# DMBRAA-004 BLE Communication Protocol
 
 ## Overview
 This document outlines the reverse-engineered BLE communication payloads used to control DMBRAA-004 LED strip lights.
